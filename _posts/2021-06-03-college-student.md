@@ -3,7 +3,7 @@ layout: post
 title: 전문대생 개발자 살아남기 (1)
 date: 2021-06-03 03:31:04 +0900
 category: Work
-thumbnail: /style/image/thumbnail.png
+thumbnail: /style/image/post/20210603-001.jpg
 icon: book
 ---
 
